@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/youtube",
+    "type": "magento-module",
+    "license": "OSL-3.0",
+    "homepage": "",
+    "description": "youtube",
+    "authors": [
+    {
+        "name": "adam",
+        "email": "adam@bricksandmortarweb.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
